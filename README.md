@@ -54,6 +54,12 @@ MLPE-Project/
 - Logistic Regression classifier.
 - Confusion matrix + classification report.
 
+## Reference
+Cote-Ballesteros, J. E., Grisales Palacios, V. H., & Rodriguez-Castellanos, J. E. (2022).
+Un algoritmo de selección de variables de enfoque híbrido basado en información mutua para aplicaciones de sensores blandos industriales basados en datos.
+Ciencia e Ingeniería Neogranadina, 32(1), 59–70.
+https://doi.org/10.18359/rcin.5644
+
 ### Clustering
 
 - KMeans on temperature columns.
