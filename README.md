@@ -12,10 +12,10 @@ MLPE-Project/
 │── main.py                     # Integrated modeling pipeline (preprocessing + ML)
 │── EDA_main.py                 # Standalone, detailed EDA script
 │── EDA_Softsensing.pptx        # EDA summary & interpretation (presentation)
-│── dataset_distill.csv         # Input dataset (user provided)
+│── dataset_distill.csv         # Input dataset 
 │── plots/                      # Auto-generated EDA & modeling figures
 │── README.md                   # Documentation
-└── MLPE Project Report.pdf     # Final project report
+└── MLPE Project Report.pdf     # Project report for main file
 </pre>
 
 
