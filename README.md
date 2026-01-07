@@ -8,13 +8,14 @@ This repository is structured to clearly separate **exploratory analysis**, **ED
 ## Repository Structure
 
 MLPE-Project/
-│── main.py                         # Integrated modeling pipeline (preprocessing + ML)
-│── EDA_main.py                     # Standalone, detailed EDA script
-│── EDA_Softsensing.pptx            # EDA summary & interpretation (presentation)
-│── dataset_distill.csv             # Input dataset (user provided)
-│── plots/                          # Auto-generated EDA & modeling figures
-│── README.md                       # Documentation
-└── MLPE Project Report.pdf         # Final project report
+│
+├── main.py                     # Integrated modeling pipeline (preprocessing + ML)
+├── EDA_main.py                 # Standalone, detailed EDA script
+├── EDA_Softsensing.pptx        # EDA summary & interpretation (presentation)
+├── dataset_distill.csv         # Input dataset (user provided)
+├── plots/                      # Auto-generated EDA & modeling figures
+├── README.md                   # Documentation
+└── MLPE Project Report.pdf     # Final project report
 
 
 ## Project Workflow
